@@ -1,0 +1,160 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "165938730259c5516b": {
+      "type": "rich-text",
+      "blocks": {
+        "1659387302606c764d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>The story of the bean<\/p>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "1659387302606c764d-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "16593872141f8c56fe": {
+      "type": "image-with-text",
+      "blocks": {
+        "16593872149d6d6bcc-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Most who drink the delicious coffee we all crave and love surprisingly don’t know where it actually comes from. All coffee, no matter the country is only cultivated within approximately 1600 miles of the equator. The sad part is most of these farms see only a fraction of the profits by the time we all grab our cup from a coffee shop. Tons of coffee farms across the world currently struggle to keep production going year after year with many closing down operations forever.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "16593872149d6d6bcc-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/coffee-1024618_1920.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "inverse",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1659387232c6f828e8": {
+      "type": "image-with-text",
+      "blocks": {
+        "1659387232552be59b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Mission",
+            "heading_size": "h1"
+          }
+        },
+        "1659387232552be59b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Here at Desert Sage Coffee Co our goal is to establish personal connections with as many farms as possible within Southern and Central America. With our help family owned farms in places like Chiapas Mexico and Antioquia Colombia will be able to see more direct profits and continue perfecting their craft for years to come.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "1659387232552be59b-0",
+        "1659387232552be59b-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/esteban-benites-1IW3SwIAJ0Y-unsplash.jpg",
+        "height": "adapt",
+        "desktop_image_width": "large",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1659387447d8122295": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screen_Shot_2022-08-01_at_12.07.41_PM.png",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "1659387498885cd582": {
+      "type": "rich-text",
+      "blocks": {
+        "165938749860ad0190-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our coffee has always been and will always be 100% ARABICA. <\/p>"
+          }
+        },
+        "165938749860ad0190-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>LOCAL SOUTHERN ARIZONA COFFEE ROASTER<\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "ca38c5e4-5313-4639-9103-c51b94de36f0": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>COFFEE + SPECIALTY + LOCAL<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "165938749860ad0190-1",
+        "165938749860ad0190-0",
+        "ca38c5e4-5313-4639-9103-c51b94de36f0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "165938730259c5516b",
+    "16593872141f8c56fe",
+    "1659387232c6f828e8",
+    "1659387447d8122295",
+    "1659387498885cd582"
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "df742fdf-bfb7-4248-9724-a65d8278cf28": {
+          "type": "heading",
+          "settings": {
+            "heading": "Small batch roasted for a more robust flavor profile. Our coffee will reinvigorate that love for coffee you’ve always had.",
+            "heading_size": "h2"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "Let us share our Cafecito with you!",
+            "text_style": "body"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop Now",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "df742fdf-bfb7-4248-9724-a65d8278cf28",
+        "text",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/DSCC_website_2.png",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "16594828470d050a2a": {
+      "type": "image-carousel",
+      "blocks": {
+        "b6e590a1-1a7d-41cf-a854-7cb4598cd884": {
+          "type": "image_picker",
+          "settings": {
+            "images": "shopify:\/\/shop_images\/tina-guina-obV_LM0KjxY-unsplash.jpg"
+          }
+        },
+        "09d5e4b3-c727-49d6-a2bf-dcfd58dbe9a6": {
+          "type": "image_picker",
+          "settings": {
+            "images": "shopify:\/\/shop_images\/IMG_6405.jpg"
+          }
+        },
+        "a3c87dca-046a-46a1-b8d9-3fb302fe491f": {
+          "type": "image_picker",
+          "settings": {
+            "images": "shopify:\/\/shop_images\/IMG_4511.jpg"
+          }
+        },
+        "07773dc9-5fa1-47d8-b980-142e5a2ab046": {
+          "type": "image_picker",
+          "settings": {
+            "images": "shopify:\/\/shop_images\/IMG_4509_1.jpg"
+          }
+        },
+        "92594370-f513-43e9-839b-52ea4a4518f5": {
+          "type": "image_picker",
+          "settings": {
+            "images": "shopify:\/\/shop_images\/IMG_6405.jpg"
+          }
+        },
+        "4895b74d-ab12-4e48-ae50-d7f170fb9afa": {
+          "type": "image_picker",
+          "settings": {
+            "images": "shopify:\/\/shop_images\/IMG_4459.jpg"
+          }
+        },
+        "10655b2f-fa5d-4608-af01-7d1e5c9f0ba2": {
+          "type": "image_picker",
+          "settings": {
+            "images": "shopify:\/\/shop_images\/IMG_4509_1.jpg"
+          }
+        },
+        "6fc5f302-4c54-4df4-b979-d7b73db26d6a": {
+          "type": "image_picker",
+          "settings": {
+            "images": "shopify:\/\/shop_images\/pexels-jason-villanueva-851555.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "b6e590a1-1a7d-41cf-a854-7cb4598cd884",
+        "09d5e4b3-c727-49d6-a2bf-dcfd58dbe9a6",
+        "a3c87dca-046a-46a1-b8d9-3fb302fe491f",
+        "07773dc9-5fa1-47d8-b980-142e5a2ab046",
+        "92594370-f513-43e9-839b-52ea4a4518f5",
+        "4895b74d-ab12-4e48-ae50-d7f170fb9afa",
+        "10655b2f-fa5d-4608-af01-7d1e5c9f0ba2",
+        "6fc5f302-4c54-4df4-b979-d7b73db26d6a"
+      ],
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "16594828470d050a2a"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "165971772054c4f32c": {
+      "type": "office-coffee",
+      "blocks": {
+        "1659717720251b10c0-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Office Coffee<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "1659717720251b10c0-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Perhaps you are the office coffee manager and you just so happen to be in the market for a coffee supplier. Well you’re in luck, we do that sort of thing too. Contact us directly and let’s keep everyone around the office happy and caffeinated!<\/p><p>If you think your office might need more than our subscription options have listed, no problem! Reach out directly via email or phone and we will gladly build you and your team a custom order.<\/p>"
+          }
+        },
+        "1659717720251b10c0-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Sign Up Now",
+            "button_link": "shopify:\/\/pages\/contact",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
+        "6b19f3cf-4ea1-4efd-9e16-b6f531d0d36f": {
+          "type": "text",
+          "settings": {
+            "text": "<p>desertsagecoffeeco@gmail.com<br\/>(520) 678-1685<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1659717720251b10c0-0",
+        "1659717720251b10c0-1",
+        "1659717720251b10c0-2",
+        "6b19f3cf-4ea1-4efd-9e16-b6f531d0d36f"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    }
+  },
+  "order": [
+    "main",
+    "165971772054c4f32c"
+  ]
+}
